@@ -1,0 +1,16 @@
+.green-background{
+    background-color: green;
+}
+.yellow-background{
+    background-color: yellow;
+}
+.red-background{
+    background-color: red;
+}
+#clickable{
+    color: blue;
+    margin-top: 4px;
+}
+.font-change{
+    font-family: Arial, sans-serif;
+}
